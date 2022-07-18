@@ -34,6 +34,7 @@ jobs:
         fi
         echo "::set-output name=DEPLOY_BRANCH::cf-pages"
     - name: Deploy website 
+      if: ${{ contains(github.event.commits[0].message, '[do-not-build]') }}
       run:  yes | bash bin/deploy --verbose
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
                     --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
