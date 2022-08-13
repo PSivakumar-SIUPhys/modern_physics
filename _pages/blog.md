@@ -1,8 +1,8 @@
 ---
 #layout: page
-redirect_to: https://past.pages.dev
 title: blog
-description: Materials for courses you taught. Replace this text with your description.
+redirect_to: https://past.pages.dev
+#description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
