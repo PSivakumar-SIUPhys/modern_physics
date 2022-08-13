@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: https://past.pages.dev
+permalink: past.pages.dev
 title: blog
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
