@@ -1,14 +1,15 @@
-name: deploy
+name: deploy Original theme to branch pure
 
 on:
   push:
     branches:
-#      - master
+      - master
 #      - main
   pull_request:
     branches:
-#      - master
+      - master
 #      - main
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -35,7 +36,7 @@ jobs:
         elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. master, source etc
           echo "::set-output name=SRC_BRANCH::${GITHUB_REF#refs/heads/}"
         fi
-        echo "::set-output name=DEPLOY_BRANCH::gh-pages"
+        echo "::set-output name=DEPLOY_BRANCH::pure"
     - name: Deploy website 
       run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
