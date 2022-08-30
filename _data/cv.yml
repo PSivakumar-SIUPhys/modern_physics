@@ -2,31 +2,31 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Alireza Dehghanzadeh
     - name: Date of Birth
-      value: 14th March 1879
+      value: 28th January 1998
     - name: Languages
-      value: English, German
+      value: Persian, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science
+      institution: University of Tehran
+      year: 2020 - 2023
       description:
-        - Description 1.
+        - Master thesis : introducing machine learning based reconstruction algorithm for Electrical Capacitance Tomography
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Science
+      institution: University of Tabriz
+      year: 2016 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Biosystem Engineering (Agricultural Engineering)
+        - Working with Precision Agriculture group in Biosystem Department under Dr Hossein Navid Supervising and Dr Hadi Karimi introductions
 
 - title: Experience
   type: time_table
