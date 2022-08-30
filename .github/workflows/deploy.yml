@@ -4,11 +4,9 @@ on:
   push:
     branches:
       - cloudflare
-      - main
   pull_request:
     branches:
       - cloudflare
-      - main
 
 jobs:
   deploy:
