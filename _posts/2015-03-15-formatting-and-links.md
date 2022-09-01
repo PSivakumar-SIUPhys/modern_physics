@@ -1,30 +1,25 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+title:  a short story about UT
+date:   2022-09-01 18:07:00
+description: a short story about me as Master student life
+tags: university-tehran
+categories: University
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Hi
+In this post I want to tell you a sad story about my student life
 
-#### Hipster list
+I finished my bachelor degree at <a herf="https://tabrizu.ac.ir/">Tabriz University</a> and I have to admite that I'm still happy that I was studing in such a nice university.
+After granduation, I took a part in Konkour (massive universities enterance test exam -its unfair somehow, let make long story short) and unbelievably, I got score to get into <a herf="https://ut.ac.ir/">University of Tehran</a> the first and greatest university in Iran.
+Lots of dreams, lots of plans....
+But I didnt know what will happend and how I will disappointed about this university.
+Let me explain something here for you:
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>In Iran, academic researches are porfessor-based, so you have to follow professor instructure. So I forced to do this</li>
+    <li>In Iran, the way universities pick students are way different from other countries, I could change my supervisor</li>
+    <li>Supervisors, on the other hand, try to put the most pressure on you to do their projects (which they got paid for that) for free so students dont recieve even a penny)</li>
+    <li>I fought for it, but at last, I was the only person who defeated, all of the rules are agaisnt me</li>
 </ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
+I just want to defence my these and apply for some good universities in Europe
 <hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+I also looking for some side projects to work on.
