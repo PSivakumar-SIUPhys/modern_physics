@@ -20,14 +20,7 @@
         - title: Master thesis
           contents:
             - Introducing machine learning based reconstruction algorithm for Electrical Capacitance Tomography
-        - title: If you want to know why I have to do research on this unrelated topic as my thesis
-          contents:
-            - In Iran, academic researches are porfessor-based, so you have to follow professor instructure. So I forced to do this
-            - In Iran, the way universities pick students are way different from other countries, I could change my supervisor
-            - Supervisors, on the other hand, try to put the most pressure on you to do their projects (which they got paid for that) for free so students dont recieve even a penny)
-            - I fought for it, but at last, I was the only person who defeated, all of the rules are agaisnt me
-            - I just want to defence my these and apply for some good universities in Europe
-    - title: Bachelor of Science
+        - <a herf="">If you curious to know why I have to do research on this unrelated topic as my master thesis (click on this)</a>
       institution: University of Tabriz
       year: 2016 - 2020
       description:
