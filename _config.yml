@@ -85,7 +85,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  <a href="https://t.me/iAlirezaD" target="_blank">Telegram</a> is the best way to reach me
+  <b><a href="https://t.me/iAlirezaD" target="_blank">Telegram</a> is the best way to reach me</b>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -94,14 +94,14 @@ contact_note: >
 google_analytics:  # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_site_verification: ijDqC0TlxUEGkRQtQrEmw4bnUsTO-xjYpO1UPYtOSKE  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Alireza Blog # blog_name will be displayed in your blog page
+blog_name: My Posts # blog_name will be displayed in your blog page
 blog_nav_title: posts # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
@@ -114,12 +114,13 @@ pagination:
 disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-# External sources.
+## External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -221,8 +222,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Dehghanzadeh
+  first_name: [Alireza, A.]
 
   style: apa
   locale: en
