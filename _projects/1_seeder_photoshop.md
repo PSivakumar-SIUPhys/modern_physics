@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "PS | Seeder Flow Monitoring System Manual Cover"
-description: "Done in photoshop by help of a free template from freepik"
+title: PS | Seeder Flow Monitoring System Manual Cover
+description: Done in photoshop by help of a free template from freepik
 img: https://user-images.githubusercontent.com/42281587/128726346-1c2026e3-6ef0-46f7-a943-196d6d2e4c51.png
 importance: 1
 category: photoshop
@@ -16,10 +16,10 @@ Here is my new finished photoshop project
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="https://user-images.githubusercontent.com/42281587/128726346-1c2026e3-6ef0-46f7-a943-196d6d2e4c51.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="https://user-images.githubusercontent.com/42281587/128726346-1c2026e3-6ef0-46f7-a943-196d6d2e4c51.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="https://user-images.githubusercontent.com/42281587/128726500-0b0bcae1-9996-4e86-8b41-cee8f2c9666a.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="https://user-images.githubusercontent.com/42281587/128726500-0b0bcae1-9996-4e86-8b41-cee8f2c9666a.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
