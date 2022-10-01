@@ -1,9 +1,9 @@
 ---
 layout: redirected
 sitemap: false
-title: Blog
+title: blogold
 nav: true
 nav_order: 1
-permalink: /past/
+permalink: /pastold/
 redirect_to:  https://past.pages.dev/
 ---
