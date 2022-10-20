@@ -2,7 +2,7 @@
 layout: page
 title: Seeder Flow Monitoring System Manual Cover
 description: Done in photoshop by help of a free template from freepik
-img: https://user-images.githubusercontent.com/42281587/128726346-1c2026e3-6ef0-46f7-a943-196d6d2e4c51.png
+img: https://lh3.googleusercontent.com/bsbQ6q5kUqhZ8PCKY1Se5nnkgOa2SLx_y6Y4ptWE953LB0TywK4gDicsoX95lE-lofRKPe0X1WstZwY4JXewZK_E7P1jA-uzUxr2SM4KerkVEvYC3HYzbUX1j3j-dEdqQSJKe81xCA=h400
 importance: 1
 category: photoshop
 ---
