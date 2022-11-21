@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Alireza
+first_name: Charith
 middle_name: 
-last_name: Dehghanzadeh
-email: adehghanzadeh@ut.ac.ir
+last_name: Atapattu
+email: charith.atapattu@siu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   dont know what to change . A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -18,9 +18,9 @@ keywords: alireza, dehghanzadeh, university, tehran, master, student, academic-w
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alireza.pages.dev # the base hostname & protocol for your site
+url: https://charithsiu.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -67,10 +67,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: adehghanzadeh # your GitHub user name
+github_username: charithsiu # your GitHub user name
 gitlab_username: # adehghanzadeh # your GitLab user name
 twitter_username: # infodior # your Twitter handle
-linkedin_username: dehghanzadeh # your LinkedIn user name
+linkedin_username: charith-atapattu # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 orcid_id: # your ORCID ID
@@ -94,7 +94,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  <b><a href="https://t.me/iAlirezaD" target="_blank">Telegram</a> is the best way to reach me</b>
+  <b><a href="https://facebook.com/charith.nisanka" target="_blank">Facebook</a> is the best way to reach me</b>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -120,7 +120,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: Charith's Blog # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 ## External sources.
